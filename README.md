@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello 👋
 
 ![profile views](https://komarev.com/ghpvc/?username=Toxgen)
 
