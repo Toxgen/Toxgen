@@ -5,4 +5,6 @@
 ~~i kinda know how to code (c, cpp, python, java, arduino, html & css, etc)~~
 
 
-professional future mcdonalds manager
+~~professional future mcdonalds manager~~
+
+working on USACO problems and preparing for Apple Swift Challenge in Jan
